@@ -1,0 +1,5 @@
+numpy
+scikit-learn
+joblib
+matplotlib
+json5
